@@ -1,0 +1,7 @@
+site_id,site_name,land_cover,canal_condition,groundwater_depth,fire_risk_index,ecological_sensitivity,affected_area,accessibility,data_provenance
+A1,Lokasi A1,Semak,Rusak sebagian,0.78,70,78,42,Sedang,ILLUSTRATIVE — demo sintetis
+A2,Lokasi A2,Bekas terbakar,Rusak berat,0.94,82,92,58,Sulit,ILLUSTRATIVE — demo sintetis
+B1,Lokasi B1,Hutan sekunder,Rusak sebagian,0.58,57,66,36,Mudah,ILLUSTRATIVE — demo sintetis
+B2,Lokasi B2,"Semak, akses sulit",Tidak ada,0.74,76,84,48,Sulit,ILLUSTRATIVE — demo sintetis
+C1,Lokasi C1,Hutan sekunder,Baik,0.38,34,48,28,Mudah,ILLUSTRATIVE — demo sintetis
+C2,Lokasi C2,Kebun campuran,Rusak sebagian,0.48,52,61,32,Sedang,ILLUSTRATIVE — demo sintetis

@@ -1,0 +1,13 @@
+site_id,action,cost,delta_fire_risk,hydrological_improvement,ecological_area_benefit,technical_feasibility,confidence_level
+A1,Repair Existing Canal Block,350000000,24,0.48,34,1,High
+A1,New Canal Block Construction,600000000,32,0.57,42,1,Medium
+A2,Repair Existing Canal Block,320000000,28,0.52,39,1,High
+A2,New Canal Block Construction,590000000,38,0.6,51,1,High
+B1,Repair Existing Canal Block,300000000,18,0.35,29,1,High
+B1,New Canal Block Construction,540000000,26,0.45,37,1,Medium
+B2,Repair Existing Canal Block,360000000,27,0.43,36,0,Low
+B2,New Canal Block Construction,620000000,36,0.56,47,1,Medium
+C1,Repair Existing Canal Block,240000000,10,0.2,18,1,High
+C1,New Canal Block Construction,480000000,16,0.3,24,1,Medium
+C2,Repair Existing Canal Block,310000000,17,0.29,26,1,High
+C2,New Canal Block Construction,520000000,24,0.4,34,1,Medium

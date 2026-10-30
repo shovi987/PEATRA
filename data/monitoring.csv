@@ -1,0 +1,5 @@
+observation_id,site_id,observation_date,groundwater_depth,canal_condition,fire_risk_index,hotspot_count,validation_status,notes
+OBS-001,A1,2026-09-12,0.74,Rusak sebagian,66,3,Tervalidasi,Penurunan risiko terpantau; verifikasi lapangan ilustratif.
+OBS-002,A2,2026-09-18,0.88,Rusak berat,79,6,Tervalidasi,Kondisi masih memerlukan prioritas tinggi.
+OBS-003,B1,2026-10-01,0.55,Rusak sebagian,54,1,Tervalidasi,Data demo untuk pengujian alur monitoring.
+OBS-004,C2,2026-10-10,0.46,Rusak sebagian,49,1,Draft,Belum diverifikasi.
